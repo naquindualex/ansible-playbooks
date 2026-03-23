@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Drafted initial implementation plan for v2
 - Consolidated duplicate helper functions
+
+## 2026-03-23
+- Tested build on clean environment
