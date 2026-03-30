@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Documented config options
 - Removed unused variable declarations
+
+## 2026-03-30
+- Wrote notes on upcoming feature design
+- Reorganised test fixtures
+- Added basic usage examples to README
