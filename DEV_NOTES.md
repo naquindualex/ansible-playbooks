@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Documented config options
 - Added CONTRIBUTING.md stub
+
+## 2026-03-30
+- Documented config options
+- Removed unused variable declarations
