@@ -22,3 +22,7 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Reorganised test fixtures
 - Added basic usage examples to README
+
+## 2026-03-30
+- Drafted initial implementation plan for v2
+- Reviewed security headers configuration
